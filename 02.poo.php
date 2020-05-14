@@ -3,6 +3,9 @@
 #Es un modelo que se utiliza para crear objetos
 #que comparten un mismo comportamiento, el mismo estado e identidad.
 
+echo("<h1>Programación POO en php</h1>");
+echo("<p><b>Clase, propiedades, metodo y objetos.</b></p><br>");
+
 class Automovil{
 
     #Propiedades.
